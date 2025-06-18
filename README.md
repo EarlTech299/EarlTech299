@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/elvice_sirleaf" target="blank"><img src="https://img.shields.io/twitter/follow/elvice_sirleaf?logo=twitter&style=for-the-badge" alt="elvice_sirleaf" /></a> </p>
 
-- 🔭 I’m currently working on **Nutricare**
+- 🔭 I’m currently working on **Nutricare App**
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **Java, Spring Boot, HTML, CSS, React**
 
